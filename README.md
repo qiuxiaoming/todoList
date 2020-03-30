@@ -9,4 +9,4 @@ Todo List示例
 1.通过左侧按钮将事物标记为已完成  
 2.通过右侧的删除键将事物删除  
 3.通过下方输入框提交新的事物  
-![image](<img https://github.com/qiuxiaoming/todoList/blob/master/show.png>)
+![image](https://github.com/qiuxiaoming/todoList/blob/master/show.png)
